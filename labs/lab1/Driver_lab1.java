@@ -32,13 +32,13 @@ public class Driver_lab1 {
   public static void main(String args[]){
     
     // take a string of input
-    Scanner inputFile = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
         
     // create an instance of this class
     Driver_lab1 driverLab1 = new Driver_lab1();
     
-    // ... process file ... GO!
-    driverLab1.processFile(inputFile);
+    //... GO!
+    driverLab1.processFile(input);
   }
   
   /**
