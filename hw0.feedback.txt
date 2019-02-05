@@ -1,0 +1,24 @@
+10 points
+
+Daniel,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+- Good organization of your repository! :)
+
+- Excellent!
+
+However,
+
+- Please keep your labs private, I don't want others looking at your solutions
+  and cheat from your code. Remove them and the submission site will always 
+  keep a copy for you.
+
+
+Peace,
+
+- Dr. Pablo Rivas
