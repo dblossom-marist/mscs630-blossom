@@ -1,0 +1,17 @@
+Password Manager <AccountVault>
+
+My idea for a project would be to implement a password manager style application for Android. It will allow the user to store information pertaining to a particular website/account/service/etc so it would be readily available when needed.
+
+ 
+
+Some Items it would store:
+
+Usernames
+Passwords
+Email Address
+Security Questions 
+Mothers Maiden Names 
+Phone Number 
+ 
+
+The data will be encrypted using AES and stored in a local database. When the user selects which account they need the information from it will retrieve it from the database and decrypt.
